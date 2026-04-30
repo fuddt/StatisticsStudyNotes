@@ -76,9 +76,121 @@
               "icon": "lucide-file",
               "title": "第4回_t分布_図解完全版"
             }
+          },
+          {
+            "id": "df7a53328a8957c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第5回：t分布を使った95%信頼区間の計算演習.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第5回：t分布を使った95%信頼区間の計算演習"
+            }
+          },
+          {
+            "id": "6ee2bfff7921d7aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第6回：仮説検定の入口 — 「差がある」と言ってよいのか？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第6回：仮説検定の入口 — 「差がある」と言ってよいのか？"
+            }
+          },
+          {
+            "id": "45287c3cfaed7aa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第7回：1標本t検定 — 標本平均は基準値と違うと言えるか？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第7回：1標本t検定 — 標本平均は基準値と違うと言えるか？"
+            }
+          },
+          {
+            "id": "6cf35973d9d1c910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第8回：片側検定・両側検定・p値の図解.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第8回：片側検定・両側検定・p値の図解"
+            }
+          },
+          {
+            "id": "46bbfdb8b6b03422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第9回：第1種の過誤・第2種の過誤・検出力.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第9回：第1種の過誤・第2種の過誤・検出力"
+            }
+          },
+          {
+            "id": "e76846153245365b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第10回：2標本t検定 — 2つのグループの平均に差があるか？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第10回：2標本t検定 — 2つのグループの平均に差があるか？"
+            }
+          },
+          {
+            "id": "f737bdc7ca4aa0e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第11回：対応のあるt検定 — 同じ対象の「前後差」を見る.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第11回：対応のあるt検定 — 同じ対象の「前後差」を見る"
+            }
+          },
+          {
+            "id": "c12fb32e2610fa93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第2回の追加授業：.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第2回の追加授業："
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -151,7 +263,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第4回_t分布_図解完全版.md",
+                "file": "第12回：仮説検定まとめ演習 — どのt検定を使うか判断する.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +273,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "第4回_t分布_図解完全版へのバックリンク"
+              "title": "第12回：仮説検定まとめ演習 — どのt検定を使うか判断するへのバックリンク"
             }
           },
           {
@@ -170,12 +282,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第4回_t分布_図解完全版.md",
+                "file": "第12回：仮説検定まとめ演習 — どのt検定を使うか判断する.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "第4回_t分布_図解完全版からのアウトゴーイングリンク"
+              "title": "第12回：仮説検定まとめ演習 — どのt検定を使うか判断するからのアウトゴーイングリンク"
             }
           },
           {
@@ -213,13 +325,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第4回_t分布_図解完全版.md",
+                "file": "第12回：仮説検定まとめ演習 — どのt検定を使うか判断する.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第4回_t分布_図解完全版のアウトライン"
+              "title": "第12回：仮説検定まとめ演習 — どのt検定を使うか判断するのアウトライン"
             }
           }
         ]
@@ -240,8 +352,22 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "e8a7e9629abb7d9c",
+  "active": "c12fb32e2610fa93",
   "lastOpenFiles": [
+    "第8回：片側検定・両側検定・p値の図解.md",
+    "第7回：1標本t検定 — 標本平均は基準値と違うと言えるか？.md",
+    "第2回の追加授業：.md",
+    "第12回：仮説検定まとめ演習 — どのt検定を使うか判断する.md",
+    "第11回：対応のあるt検定 — 同じ対象の「前後差」を見る.md",
+    "第10回：2標本t検定 — 2つのグループの平均に差があるか？.md",
+    "第9回：第1種の過誤・第2種の過誤・検出力.md",
+    "無題のフォルダ",
+    "Pasted image 20260430143550.png",
+    "Pasted image 20260430143513.png",
+    "Pasted image 20260430143458.png",
+    "第6回：仮説検定の入口 — 「差がある」と言ってよいのか？.md",
+    "第5回：t分布を使った95%信頼区間の計算演習.md",
+    "第4回_t分布_図解完全版.md",
     "t_distribution_lesson_assets/03_ci_width_comparison.png",
     "t_distribution_lesson_assets/02_df_vs_t_value.png",
     "t_distribution_lesson_assets/01_normal_vs_t.png",
@@ -250,13 +376,9 @@
     "自由度とt値の関係.png",
     "正規分布とt分布の比較.png",
     "image-1.png",
-    "image.png",
-    "Pasted image 20260430141723.png",
     "第4回：母標準偏差が分からないとき：t分布.md",
-    "第4回_t分布_図解完全版.md",
     "第3回：95%信頼区間とは何か.md",
     "第2回：標本平均はなぜブレるのか.md",
-    "第2回の追加授業：.md",
     "第1回：統計は「全部を見られない世界」で判断する技術.md"
   ]
 }
