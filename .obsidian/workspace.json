@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "3563b6b32ca5ac57",
+    "type": "split",
+    "children": [
+      {
+        "id": "169340b874cd3e60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14bdb65fdb7c2c1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第1回：統計は「全部を見られない世界」で判断する技術.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第1回：統計は「全部を見られない世界」で判断する技術"
+            }
+          },
+          {
+            "id": "db5e766a62fd3413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第1回：統計は「全部を見られない世界」で判断する技術.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第1回：統計は「全部を見られない世界」で判断する技術"
+            }
+          },
+          {
+            "id": "1a10e9d17ebe449c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第2回：標本平均はなぜブレるのか.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第2回：標本平均はなぜブレるのか"
+            }
+          },
+          {
+            "id": "41586ed4f3a3f44b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第3回：95%信頼区間とは何か.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第3回：95%信頼区間とは何か"
+            }
+          },
+          {
+            "id": "e8a7e9629abb7d9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第4回_t分布_図解完全版.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第4回_t分布_図解完全版"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acce5e09aabf7919",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0423e26b59e13d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39989febd51d5067",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "1172a4653e007c57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "5a80a783c4dacaf6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3a8595aaac4d17e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fa266d3fd7a40c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0550d37e8e61ebcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第4回_t分布_図解完全版.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "第4回_t分布_図解完全版へのバックリンク"
+            }
+          },
+          {
+            "id": "672ee72f1deb8e6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第4回_t分布_図解完全版.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "第4回_t分布_図解完全版からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "759a7d2fcf6076ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "79255b8db596c267",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "50d94d0a1eed8a8c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第4回_t分布_図解完全版.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "第4回_t分布_図解完全版のアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "e8a7e9629abb7d9c",
+  "lastOpenFiles": [
+    "t_distribution_lesson_assets/03_ci_width_comparison.png",
+    "t_distribution_lesson_assets/02_df_vs_t_value.png",
+    "t_distribution_lesson_assets/01_normal_vs_t.png",
+    "t_distribution_lesson_assets",
+    "信頼区間の広さ比較.png",
+    "自由度とt値の関係.png",
+    "正規分布とt分布の比較.png",
+    "image-1.png",
+    "image.png",
+    "Pasted image 20260430141723.png",
+    "第4回：母標準偏差が分からないとき：t分布.md",
+    "第4回_t分布_図解完全版.md",
+    "第3回：95%信頼区間とは何か.md",
+    "第2回：標本平均はなぜブレるのか.md",
+    "第2回の追加授業：.md",
+    "第1回：統計は「全部を見られない世界」で判断する技術.md"
+  ]
+}
