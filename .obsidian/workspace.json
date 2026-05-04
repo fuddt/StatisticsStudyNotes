@@ -27,16 +27,324 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "コラム：標準偏差は「分解」と「合成」ができない。.md",
+                "file": "_第15回：推定.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "コラム：標準偏差は「分解」と「合成」ができない。"
+              "title": "_第15回：推定"
+            }
+          },
+          {
+            "id": "2c97f88cdc5b3566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第13回：確率の基本.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第13回：確率の基本"
+            }
+          },
+          {
+            "id": "79ada60c960558f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第14回：条件付き確率.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第14回：条件付き確率"
+            }
+          },
+          {
+            "id": "b8cecc83ff71c17b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第15回：ベイズの定理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第15回：ベイズの定理"
+            }
+          },
+          {
+            "id": "58c870e27a017dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第16回：確率変数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第16回：確率変数"
+            }
+          },
+          {
+            "id": "49954725dd13eada",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第17回：期待値・分散.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第17回：期待値・分散"
+            }
+          },
+          {
+            "id": "fed0e279a643cdab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第18回：二項分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第18回：二項分布"
+            }
+          },
+          {
+            "id": "af4336dc5bd0db1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第19回：正規分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第19回：正規分布"
+            }
+          },
+          {
+            "id": "0ed8730eeb7afb95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第23回：F分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第23回：F分布"
+            }
+          },
+          {
+            "id": "ab63467d5eef2c1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第19回：正規分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第19回：正規分布"
+            }
+          },
+          {
+            "id": "f3a7109db70bf988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第21回：t分布の再整理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第21回：t分布の再整理"
+            }
+          },
+          {
+            "id": "032c2743f5e9a984",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第22回：カイ二乗分布.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第22回：カイ二乗分布"
+            }
+          },
+          {
+            "id": "cb3c21c5eeb0b4d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第24回：カイ二乗検定.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第24回：カイ二乗検定"
+            }
+          },
+          {
+            "id": "6534f93f0606b4e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第26回：回帰分析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第26回：回帰分析"
+            }
+          },
+          {
+            "id": "7ba4036d4f2f01ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第26回：回帰分析.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第26回：回帰分析"
+            }
+          },
+          {
+            "id": "3826a7d37c84e6dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第27回：データの種類・グラフ・ヒストグラム.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第27回：データの種類・グラフ・ヒストグラム"
+            }
+          },
+          {
+            "id": "44b7eb93da84c0a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第28回：平均・中央値・四分位・箱ひげ図.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第28回：平均・中央値・四分位・箱ひげ図"
+            }
+          },
+          {
+            "id": "41fcdfc10ce069e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第29回：標準化・変動係数・歪度・尖度・ジニ係数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第29回：標準化・変動係数・歪度・尖度・ジニ係数"
+            }
+          },
+          {
+            "id": "d563547e7c5f8bf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第30回：散布図・共分散・相関係数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第30回：散布図・共分散・相関係数"
+            }
+          },
+          {
+            "id": "8695ced47ccdd34b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第31回：見かけの相関・偏相関・層別散布図.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第31回：見かけの相関・偏相関・層別散布図"
+            }
+          },
+          {
+            "id": "8276e896395782fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第32回：データ収集法：母集団・標本・無作為抽出.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第32回：データ収集法：母集団・標本・無作為抽出"
+            }
+          },
+          {
+            "id": "9859b550cc1effba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第33回：標本抽出法・観察研究・実験研究.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第33回：標本抽出法・観察研究・実験研究"
+            }
+          },
+          {
+            "id": "e5cd12f5ff9a02c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第33回：標本抽出法・観察研究・実験研究.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第33回：標本抽出法・観察研究・実験研究"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -198,39 +506,53 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "ed2c43098953ebf4",
+  "active": "39989febd51d5067",
   "lastOpenFiles": [
-    "コラム：母分散既知が現実的にあり得るのか？.md",
-    "コラム：標準偏差は「分解」と「合成」ができない。.md",
-    "第14回：標本分布.md",
-    "第15回：推定.md",
-    "第1回：統計は「全部を見られない世界」で判断する技術.md",
-    "第2回：標本平均はなぜブレるのか.md",
-    "第3回：95%信頼区間とは何か.md",
-    "第4回_t分布_図解完全版.md",
-    "第5回：t分布を使った95%信頼区間の計算演習.md",
-    "第6回：仮説検定の入口 — 「差がある」と言ってよいのか？.md",
-    "第7回：1標本t検定 — 標本平均は基準値と違うと言えるか？.md",
-    "第8回：片側検定・両側検定・p値の図解.md",
-    "第9回：第1種の過誤・第2種の過誤・検出力.md",
-    "第10回：2標本t検定 — 2つのグループの平均に差があるか？.md",
-    "第11回：対応のあるt検定 — 同じ対象の「前後差」を見る.md",
-    "第13回：確率分布.md",
-    "第2回の追加授業：.md",
-    "第13回.md",
-    "第12回：仮説検定まとめ演習 — どのt検定を使うか判断する.md",
-    "無題のフォルダ",
-    "Pasted image 20260430143550.png",
-    "Pasted image 20260430143513.png",
-    "Pasted image 20260430143458.png",
-    "t_distribution_lesson_assets/03_ci_width_comparison.png",
-    "t_distribution_lesson_assets/02_df_vs_t_value.png",
-    "t_distribution_lesson_assets/01_normal_vs_t.png",
-    "t_distribution_lesson_assets",
-    "信頼区間の広さ比較.png",
-    "自由度とt値の関係.png",
-    "正規分布とt分布の比較.png",
-    "image-1.png",
-    "第4回：母標準偏差が分からないとき：t分布.md"
+    "別軸競馬AIに使える統計学",
+    "第32回：データ収集法：母集団・標本・無作為抽出.md",
+    "第33回：標本抽出法・観察研究・実験研究.md",
+    "scatter_lesson_assets/30_04_scatter_outlier.png",
+    "scatter_lesson_assets/30_03_scatter_strength.png",
+    "scatter_lesson_assets/30_02_scatter_types.png",
+    "scatter_lesson_assets/30_01_scatter_intro.png",
+    "dispersion_lesson_assets/29_03_lorenz.png",
+    "dispersion_lesson_assets/29_02_kurtosis.png",
+    "dispersion_lesson_assets/29_01_skewness.png",
+    "boxplot_lesson_assets/28_06_boxplot_compare.png",
+    "boxplot_lesson_assets/28_05_boxplot_skewed.png",
+    "boxplot_lesson_assets/28_04_boxplot_median.png",
+    "normal_dist_figures/generate_30.py",
+    "normal_dist_figures/generate_29.py",
+    "normal_dist_figures/generate_28.py",
+    "無題のファイル 2.md",
+    "第31回：見かけの相関・偏相関・層別散布図.md",
+    "第30回：散布図・共分散・相関係数.md",
+    "scatter_lesson_assets",
+    "dispersion_lesson_assets",
+    "boxplot_lesson_assets",
+    "grade1semi_hani_190628_2.pdf",
+    "第29回：標準化・変動係数・歪度・尖度・ジニ係数.md",
+    "第28回：平均・中央値・四分位・箱ひげ図.md",
+    "normal_dist_figures/generate_27.py",
+    "data_types_lesson_assets",
+    "第27回：データの種類・グラフ・ヒストグラム.md",
+    "第26回：回帰分析.md",
+    "第25回：分散分析.md",
+    "grade2_hani_20181214.pdf",
+    "第24回：カイ二乗検定.md",
+    "第23回：F分布.md",
+    "第22回：カイ二乗分布.md",
+    "第21回：t分布の再整理.md",
+    "第20回：標本分布の再整理.md",
+    "第19回：正規分布.md",
+    "normal_dist_figures/README.md",
+    "第18回：二項分布.md",
+    "第17回：期待値・分散.md",
+    "第16回：確率変数.md",
+    "第15回：ベイズの定理.md",
+    "第14回：条件付き確率.md",
+    "第13回：確率の基本.md",
+    "_第15回：推定.md",
+    "_第14回：標本分布.md"
   ]
 }
