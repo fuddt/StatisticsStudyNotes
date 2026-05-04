@@ -4,193 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "169340b874cd3e60",
+        "id": "c8dc20b8c44a1a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "14bdb65fdb7c2c1a",
+            "id": "e4e5273b0e47bf15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第1回：統計は「全部を見られない世界」で判断する技術.md",
+                "file": "コラム：母分散既知が現実的にあり得るのか？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第1回：統計は「全部を見られない世界」で判断する技術"
+              "title": "コラム：母分散既知が現実的にあり得るのか？"
             }
           },
           {
-            "id": "db5e766a62fd3413",
+            "id": "ed2c43098953ebf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第1回：統計は「全部を見られない世界」で判断する技術.md",
+                "file": "コラム：標準偏差は「分解」と「合成」ができない。.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第1回：統計は「全部を見られない世界」で判断する技術"
-            }
-          },
-          {
-            "id": "1a10e9d17ebe449c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第2回：標本平均はなぜブレるのか.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第2回：標本平均はなぜブレるのか"
-            }
-          },
-          {
-            "id": "41586ed4f3a3f44b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第3回：95%信頼区間とは何か.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第3回：95%信頼区間とは何か"
-            }
-          },
-          {
-            "id": "e8a7e9629abb7d9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第4回_t分布_図解完全版.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第4回_t分布_図解完全版"
-            }
-          },
-          {
-            "id": "df7a53328a8957c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第5回：t分布を使った95%信頼区間の計算演習.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第5回：t分布を使った95%信頼区間の計算演習"
-            }
-          },
-          {
-            "id": "6ee2bfff7921d7aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第6回：仮説検定の入口 — 「差がある」と言ってよいのか？.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第6回：仮説検定の入口 — 「差がある」と言ってよいのか？"
-            }
-          },
-          {
-            "id": "45287c3cfaed7aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第7回：1標本t検定 — 標本平均は基準値と違うと言えるか？.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第7回：1標本t検定 — 標本平均は基準値と違うと言えるか？"
-            }
-          },
-          {
-            "id": "6cf35973d9d1c910",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第8回：片側検定・両側検定・p値の図解.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第8回：片側検定・両側検定・p値の図解"
-            }
-          },
-          {
-            "id": "46bbfdb8b6b03422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第9回：第1種の過誤・第2種の過誤・検出力.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第9回：第1種の過誤・第2種の過誤・検出力"
-            }
-          },
-          {
-            "id": "e76846153245365b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第10回：2標本t検定 — 2つのグループの平均に差があるか？.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第10回：2標本t検定 — 2つのグループの平均に差があるか？"
-            }
-          },
-          {
-            "id": "f737bdc7ca4aa0e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第11回：対応のあるt検定 — 同じ対象の「前後差」を見る.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第11回：対応のあるt検定 — 同じ対象の「前後差」を見る"
-            }
-          },
-          {
-            "id": "c12fb32e2610fa93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第13回：確率分布.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "第13回：確率分布"
+              "title": "コラム：標準偏差は「分解」と「合成」ができない。"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -352,24 +198,31 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "c12fb32e2610fa93",
+  "active": "ed2c43098953ebf4",
   "lastOpenFiles": [
-    "第2回の追加授業：.md",
-    "第13回：確率分布.md",
-    "第13回.md",
-    "第8回：片側検定・両側検定・p値の図解.md",
+    "コラム：母分散既知が現実的にあり得るのか？.md",
+    "コラム：標準偏差は「分解」と「合成」ができない。.md",
+    "第14回：標本分布.md",
+    "第15回：推定.md",
+    "第1回：統計は「全部を見られない世界」で判断する技術.md",
+    "第2回：標本平均はなぜブレるのか.md",
+    "第3回：95%信頼区間とは何か.md",
+    "第4回_t分布_図解完全版.md",
+    "第5回：t分布を使った95%信頼区間の計算演習.md",
+    "第6回：仮説検定の入口 — 「差がある」と言ってよいのか？.md",
     "第7回：1標本t検定 — 標本平均は基準値と違うと言えるか？.md",
-    "第12回：仮説検定まとめ演習 — どのt検定を使うか判断する.md",
-    "第11回：対応のあるt検定 — 同じ対象の「前後差」を見る.md",
-    "第10回：2標本t検定 — 2つのグループの平均に差があるか？.md",
+    "第8回：片側検定・両側検定・p値の図解.md",
     "第9回：第1種の過誤・第2種の過誤・検出力.md",
+    "第10回：2標本t検定 — 2つのグループの平均に差があるか？.md",
+    "第11回：対応のあるt検定 — 同じ対象の「前後差」を見る.md",
+    "第13回：確率分布.md",
+    "第2回の追加授業：.md",
+    "第13回.md",
+    "第12回：仮説検定まとめ演習 — どのt検定を使うか判断する.md",
     "無題のフォルダ",
     "Pasted image 20260430143550.png",
     "Pasted image 20260430143513.png",
     "Pasted image 20260430143458.png",
-    "第6回：仮説検定の入口 — 「差がある」と言ってよいのか？.md",
-    "第5回：t分布を使った95%信頼区間の計算演習.md",
-    "第4回_t分布_図解完全版.md",
     "t_distribution_lesson_assets/03_ci_width_comparison.png",
     "t_distribution_lesson_assets/02_df_vs_t_value.png",
     "t_distribution_lesson_assets/01_normal_vs_t.png",
@@ -378,9 +231,6 @@
     "自由度とt値の関係.png",
     "正規分布とt分布の比較.png",
     "image-1.png",
-    "第4回：母標準偏差が分からないとき：t分布.md",
-    "第3回：95%信頼区間とは何か.md",
-    "第2回：標本平均はなぜブレるのか.md",
-    "第1回：統計は「全部を見られない世界」で判断する技術.md"
+    "第4回：母標準偏差が分からないとき：t分布.md"
   ]
 }
